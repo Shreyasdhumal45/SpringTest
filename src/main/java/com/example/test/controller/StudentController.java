@@ -18,7 +18,7 @@ import com.example.test.service.StudentService;
 @RequestMapping("/student")
 public class StudentController {
 	
-	LoggerFactory.g
+	
 @Autowired
 	private StudentService studentservice;
 	
